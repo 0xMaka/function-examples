@@ -1,4 +1,4 @@
-// function template
+// function template 2
 #include <iostream>
 using namespace std;
 
